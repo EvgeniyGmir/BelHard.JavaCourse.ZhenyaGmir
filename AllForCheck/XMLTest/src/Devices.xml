@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Devices>
+	<component>
+		<name>Processor Intel® Core™ i9-8950HK</name>
+		<origin>China</origin>
+		<price>1100</price>
+		<type>
+			<peripheral>false</peripheral>
+			<energy>140</energy>
+			<cooler>true</cooler>
+		</type>
+		<critical>true</critical>
+	</component>
+	<component>
+		<name>Videocard NVIDIA GeForce GTX 1050</name>
+		<origin>China</origin>
+		<price>530</price>
+		<type>
+			<peripheral>false</peripheral>
+			<energy>75</energy>
+			<cooler>true</cooler>
+		</type>
+		<critical>true</critical>
+	</component>
+	<component>
+		<name>Motherboard Supermicro X10DRC-LN4+</name>
+		<origin>China</origin>
+		<price>900</price>
+		<type>
+			<peripheral>false</peripheral>
+			<energy>220</energy>
+			<cooler>false</cooler>
+		</type>
+		<critical>true</critical>
+	</component>
+</Devices>
